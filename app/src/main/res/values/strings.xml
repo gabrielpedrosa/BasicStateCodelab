@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">BasicStateCodelab</string>
+    <string name="add">Add</string>
+    <string name="close">Close</string>
+    <string name="have_you_taken_your_15_min_walk">Have you taken your 15 minute walk today?</string>
+    <string name="reset">Reset</string>
+
+    <plurals name="glass_count">
+        <item quantity="one">You had %1$d glass</item>
+        <item quantity="other">You had %1$d glasses</item>
+    </plurals>
 </resources>

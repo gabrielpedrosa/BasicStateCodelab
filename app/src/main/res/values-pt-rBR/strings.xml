@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BasicStateCodelab</string>
+
+    <string name="add">Adicionar</string>
+    <string name="close">Fechar</string>
+    <string name="have_you_taken_your_15_min_walk">Você fez sua caminhada de 15 minutos hoje?</string>
+    <string name="reset">Reiniciar</string>
+
+
+    <plurals name="glass_count">
+        <item quantity="one">Você tomou %1$d copo de água</item>
+        <item quantity="many">Você tomou %1$d copos de água</item>
+        <item quantity="other">Você tomou %1$d copos de água</item>
+    </plurals>
+</resources>
